@@ -18,7 +18,7 @@
             </strong>
         </p>
         <ul>
-            <li>🌱 <b>I’m currently learning</b>: Manual Software Testing and Automation Testing both on web and mobile based</li>
+            <li>🌱 <b>I’m currently learning</b>: Appium for mobile testing, Jmeter and Rest Assured API</li>
             <li>👨‍💻 <b>I’m currently open for a new job opportunity, check out my LinkedIn page.</li>
             <li>👨‍💻 <b>Got my ISTQB Foundation Level certificate recently!</li>
             <li>😄 <b>Fun fact</b>: I love learning new languages, gaming, testing softwares and finding bugs (duh)</li>
