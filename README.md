@@ -19,7 +19,6 @@
         </p>
         <ul>
             <li>🌱 <b>I’m currently learning</b>: Appium for mobile testing, Jmeter and Rest Assured API</li>
-         <li>👨‍💻 <b>Got my ISTQB Foundation Level certificate recently!</li>
             <li>👨‍💻 <b>Got my ISTQB Foundation Level certificate recently!</li>
             <li>😄 <b>Fun fact</b>: I love learning new languages, gaming, testing softwares and finding bugs (duh)</li>
            
