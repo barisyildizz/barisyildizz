@@ -13,12 +13,12 @@
             <strong>
                 Manual and Automation Software Tester<br><br>
                 I specialize in Java using Selenium for automations. Also good in performing functional, non-functional tests. Page Object Model and other frameworks and problem solving skills.<br><br>
-                I am passionate about learning Selenium and Appium, taking courses of Python, Linux and DevOps.<br><br>
+              
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
         </p>
         <ul>
-            <li>🌱 <b>I’m currently learning</b>: K6, Jmeter and Rest Assured API Automation</li>
+            <li>🌱 <b>I’m currently learning</b>: Playwright, Cypress, K6, Jmeter and Rest Assured API Automation</li>
             <li>👨‍💻 <b>Got my ISTQB Foundation Level certificate!</li>
             <li>😄 <b>Fun fact</b>: I love learning new languages, gaming, testing softwares and finding bugs (duh)</li>
            
